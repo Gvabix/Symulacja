@@ -1,0 +1,12 @@
+{
+    "num_agents": 500,
+    "width": 40,
+    "height": 40,
+    "model": "social_force",
+    "social_force_strength": 0.5,
+    "repulsion_strength": 0.9,
+    "cellular_automata_prob": 0.7,
+    "social_distance": 2.0,
+    "avg_density": 0.3125,
+    "avg_speed": 0.09303078188916297
+}
